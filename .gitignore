@@ -1,0 +1,28 @@
+# Local experiment outputs
+Run*/data/*
+!Run*/data/.gitkeep
+*.psydat
+*.log
+*.hdf5
+*.h5
+
+# Stimulus media supplied separately
+Run*/Videos/*
+!Run*/Videos/.gitkeep
+Run*/POS_stimuli/*
+!Run*/POS_stimuli/.gitkeep
+*.mp4
+*.mov
+
+# Generated scripts, legacy copies, and backups
+*_lastrun.py
+*_legacy.psyexp
+script_backups/
+
+# Local system and editor files
+.DS_Store
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
