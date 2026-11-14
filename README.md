@@ -50,7 +50,7 @@ The scanner trigger and response-box mapping must be checked on the experiment c
 
 ## Project team
 
-The project overview lists John McAlaney, Ala Yankouskaya, Emily Arden-Close, Ellen Seiss, Reece Bush, Ruijie Wang, Elvira Bolat, Alex Caton-Bradley, and Shannon Patton. Affiliations, repository maintainers, and preferred citation details are to be confirmed.
+The project team: John McAlaney, Ala Yankouskaya, Emily Arden-Close, Ellen Seiss, Reece Bush, Ruijie Wang, Elvira Bolat, Alex Caton-Bradley, and Shannon Patton. 
 
 ## Project status and reuse
 
